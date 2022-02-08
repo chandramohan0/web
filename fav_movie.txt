@@ -1,1 +1,1 @@
-watch movie
+fav_movie
